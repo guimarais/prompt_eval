@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+001_prompt_evals_fns.ipynb
+001_prompt_evals_grader.ipynb
+002_prompting_completed.ipynb
+001_prompt_evals_complete.ipynb
