@@ -1,14 +1,17 @@
 [
   {
-    "task": "Create a regex to validate an AWS IAM username that must start with a letter, can include letters, numbers, and these special characters: +, =, ,, ., @, _, and must be between 1-64 characters long",
-    "format": "regex"
+    "task": "Create a regular expression to validate an AWS IAM username, which must be between 1-64 characters, can only contain alphanumeric characters, underscores, and hyphens",
+    "format": "regex",
+    "solution_criteria": "Regex should match valid IAM usernames and reject names with special characters or outside length range"
   },
   {
-    "task": "Write a Python function that converts an AWS EC2 instance state code (0-16) to its human-readable description (e.g., 0 = pending, 16 = running)",
-    "format": "python"
+    "task": "Write a Python function to convert an AWS EC2 instance type (e.g. 't2.micro') into a dictionary with size and family components",
+    "format": "python",
+    "solution_criteria": "Function should correctly parse instance type string into dictionary with 'family' and 'size' keys"
   },
   {
-    "task": "Create a JSON object representing the minimal configuration for an AWS S3 bucket policy that allows public read access",
-    "format": "json"
+    "task": "Create a JSON object representing the minimum configuration for an AWS S3 bucket policy that allows public read access",
+    "format": "json",
+    "solution_criteria": "JSON should define a bucket policy with a statement allowing GetObject action for all principals"
   }
 ]
