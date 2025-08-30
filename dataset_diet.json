@@ -1,0 +1,162 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "175",
+      "weight": "72",
+      "goal": "muscle maintenance and recovery during training",
+      "restrictions": "limited budget, no dairy"
+    },
+    "solution_criteria": [
+      "Provide meals under $15 per day",
+      "Meet minimum daily protein requirements for athlete (1.6-2g per kg bodyweight)",
+      "Include balanced macronutrient distribution",
+      "Demonstrate cost-effective protein sources"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Budget-conscious athlete with limited grocery spending capacity"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "82",
+      "goal": "muscle maintenance and strength development",
+      "restrictions": "vegan diet, no processed foods"
+    },
+    "solution_criteria": [
+      "Provide minimum 100g of plant-based protein daily",
+      "Include balanced macronutrient distribution",
+      "Ensure meals are whole food based",
+      "Cover full nutritional needs for strength training"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Vegan strength athlete requiring plant-based protein sources and balanced nutrition"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "75",
+      "goal": "Marathon performance optimization and sustained energy",
+      "restrictions": "Lactose intolerant, no red meat"
+    },
+    "solution_criteria": [
+      "Meal plan must meet 3000-3500 daily caloric requirement",
+      "Provide minimum 120g protein intake",
+      "Include balanced macronutrient distribution for endurance performance",
+      "Accommodate lactose intolerance and protein sources excluding red meat"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "High-intensity endurance athlete (e.g., marathon runner) with strict caloric and protein requirements"
+  },
+  {
+    "prompt_inputs": {
+      "height": "185",
+      "weight": "82",
+      "goal": "Maintain peak performance during arctic expedition training",
+      "restrictions": "High calorie requirements, must avoid dairy and gluten"
+    },
+    "solution_criteria": [
+      "Provide 4000-5000 daily calories",
+      "Include balanced macronutrient distribution",
+      "Accommodate extreme climate nutritional needs",
+      "Respect specified dietary restrictions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Professional athlete training in extreme climate conditions (desert/arctic environment)"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "85",
+      "goal": "Muscle recovery and inflammation reduction after knee ligament surgery",
+      "restrictions": "Low sodium, no dairy, anti-inflammatory diet"
+    },
+    "solution_criteria": [
+      "Provide balanced macronutrient distribution supporting tissue repair",
+      "Include anti-inflammatory foods that aid rehabilitation",
+      "Ensure total daily caloric intake matches athlete's metabolic needs",
+      "Accommodate specified dietary restrictions"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Athlete recovering from injury with specific nutritional rehabilitation needs"
+  },
+  {
+    "prompt_inputs": {
+      "height": "180",
+      "weight": "75",
+      "goal": "muscle maintenance during training",
+      "restrictions": "gluten-free, dairy-free"
+    },
+    "solution_criteria": [
+      "Provides complete daily nutrition within dietary restrictions",
+      "Includes balanced macronutrient distribution for athlete's needs",
+      "Demonstrates variety in meal options",
+      "Ensures adequate protein intake for muscle maintenance"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Athlete with multiple food allergies/dietary restrictions (gluten-free, dairy-free)"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "75",
+      "goal": "weight class maintenance with performance optimization",
+      "restrictions": "no dairy, gluten-sensitive"
+    },
+    "solution_criteria": [
+      "Provides precise daily caloric intake matching athlete's metabolic needs",
+      "Ensures macro-nutrient balance for weight class maintenance",
+      "Accommodates specified dietary restrictions",
+      "Supports athletic performance and recovery"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Weight class athlete (wrestler/boxer) needing precise macro-nutrient control"
+  },
+  {
+    "prompt_inputs": {
+      "height": "168",
+      "weight": "62",
+      "goal": "muscle development and performance optimization for competitive swimming",
+      "restrictions": "lactose intolerant, no red meat"
+    },
+    "solution_criteria": [
+      "Meal plan must provide minimum 2500 calories",
+      "Include balanced macronutrient distribution for athletic performance",
+      "Accommodate lactose intolerance and protein alternatives",
+      "Support teenage growth and developmental nutritional needs"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Young teenage athlete undergoing growth and developmental nutritional requirements"
+  },
+  {
+    "prompt_inputs": {
+      "height": "178",
+      "weight": "82",
+      "goal": "Maintain muscle mass and support joint health while managing energy levels",
+      "restrictions": "Low-inflammatory diet, reduced dairy, moderate protein intake"
+    },
+    "solution_criteria": [
+      "Provide balanced macronutrient distribution appropriate for senior athlete",
+      "Include anti-inflammatory food choices",
+      "Ensure adequate protein intake for muscle preservation",
+      "Design meal plan under 2500 calories"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Senior/masters level athlete with slower metabolism and joint health considerations"
+  },
+  {
+    "prompt_inputs": {
+      "height": "183",
+      "weight": "82",
+      "goal": "Pre-competition nutrition optimization for triathlon performance",
+      "restrictions": "Lactose intolerant, no red meat"
+    },
+    "solution_criteria": [
+      "Provides balanced macronutrient intake for athletic performance",
+      "Accounts for athlete's specific dietary restrictions",
+      "Ensures adequate hydration and energy levels for 24-hour competition window",
+      "Includes easily digestible meal timing"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Athlete preparing for competitive event within 24-hour performance window"
+  }
+]
