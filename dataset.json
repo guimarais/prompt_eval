@@ -1,11 +1,14 @@
 [
   {
-    "task": "Create a Python function to extract the AWS region from an EC2 instance ARN"
+    "task": "Create a regex to validate an AWS IAM username that must start with a letter, can include letters, numbers, and these special characters: +, =, ,, ., @, _, and must be between 1-64 characters long",
+    "format": "regex"
   },
   {
-    "task": "Write a JSON schema to validate an AWS IAM policy document"
+    "task": "Write a Python function that converts an AWS EC2 instance state code (0-16) to its human-readable description (e.g., 0 = pending, 16 = running)",
+    "format": "python"
   },
   {
-    "task": "Develop a regular expression to match valid AWS resource names (containing only lowercase letters, numbers, and hyphens)"
+    "task": "Create a JSON object representing the minimal configuration for an AWS S3 bucket policy that allows public read access",
+    "format": "json"
   }
 ]
